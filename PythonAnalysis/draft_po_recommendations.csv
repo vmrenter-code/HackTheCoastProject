@@ -1,0 +1,26 @@
+priority,suggested_order_date,LOCNCODE,LOCATION_NAME,vendor_id,manufacturer,vendor_brand,ITEMNMBR,ITEMDESC,forecast_units_monthly,lead_time_days,days_of_supply,recommended_order_units_rounded,recommended_order_cases,case_pack_units,moq_units,estimated_unit_cost,estimated_order_cost,assumption_notes
+Critical,2026-04-18,2,NJ,,SNA,,F-04220,POP Ginger Chews Original 2 oz(24ct/cs),1149.7,91.2,0.0,9205,,,,,,Suppressed demand uplift included; Primary vendor missing
+Critical,2026-04-18,2,NJ,,SNA,,F-04221,POP Ginger Chews Lemon 2 oz(24ct/cs),1200.1,91.2,0.0,9394,,,,,,Suppressed demand uplift included; Primary vendor missing
+Critical,2026-04-18,1,SF,,SNA,,F-04220,POP Ginger Chews Original 2 oz(24ct/cs),347.8,91.2,0.0,2783,,,,,,Suppressed demand uplift included; Primary vendor missing
+Critical,2026-04-18,1,SF,,SNA,,F-04221,POP Ginger Chews Lemon 2 oz(24ct/cs),395.5,91.2,0.0,2953,,,,,,Suppressed demand uplift included; Primary vendor missing
+Critical,2026-04-18,3,LA,DM9FE1A,Ferrero USA,Ferrero,F-12418,Ferrero Rocher 24 pcs Diamond Display(48),8.8,20.0,0.0,96,2.0,48.0,,368.64,35389.44,Suppressed demand uplift included
+Critical,2026-04-18,3,LA,DM9FE1A,Ferrero USA,Ferrero,F-12998,Ferrero Rocher 48's Flat Gift Box,33.8,18.5,0.0,128,8.0,16.0,,3953.32,506024.96,Suppressed demand uplift included
+Critical,2026-04-18,2,NJ,DM9FE1A,Ferrero USA,Ferrero,F-12998,Ferrero Rocher 48's Flat Gift Box,41.4,19.0,0.0,128,8.0,16.0,,3953.32,506024.96,
+Critical,2026-04-18,1,SF,DM9FE1A,Ferrero USA,Ferrero,F-12998,Ferrero Rocher 48's Flat Gift Box,15.7,22.0,0.0,48,3.0,16.0,,3953.32,189759.36,
+Critical,2026-04-18,2,NJ,IM9GO3A,GL,POP,A-61117,AM GSG Candy 1 lb / Bag,62.9,114.0,0.0,550,25.0,22.0,,46.07,25339.88,
+High,2026-04-18,3,LA,,POP ,,AC-B16BK,AM GSG Root (Mixed) 1 lb Bag,792.9,90.0,128.2,1944,81.0,24.0,,,,Lead time fallback used; Suppressed demand uplift included; Primary vendor missing
+High,2026-04-18,3,LA,,POP ,,AC-B4BK,AM GSG Root (Mixed) 4 oz Bag,745.1,90.0,213.9,1440,24.0,60.0,,,,Lead time fallback used; Primary vendor missing
+High,2026-04-18,3,LA,,POP ,,AC-B6SLJ,AM GSG Slices 6 oz Bag-Jumbo,18.8,90.0,171.6,72,6.0,12.0,,,,Lead time fallback used; Suppressed demand uplift included; Primary vendor missing
+High,2026-04-18,3,LA,,POP ,,AC-B8BK,AM GSG Root (Mixed) 8 oz Bag,727.8,90.0,99.0,2520,60.0,42.0,,,,Lead time fallback used; Suppressed demand uplift included; Primary vendor missing
+High,2026-04-18,2,NJ,,POP ,,AC-B3SLJ,AM GSG Slices 3 oz Bag-Jumbo,4.4,90.0,220.3,24,2.0,12.0,,,,Lead time fallback used; Suppressed demand uplift included; Primary vendor missing
+High,2026-04-18,2,NJ,DM9AM9B,TKN,Totole,J-72402,Totole Chicken Bouillon 2.2 lbs,13.0,10.5,112.2,2880,240.0,12.0,2880.0,82.0,236160.0,
+High,2026-04-18,2,NJ,DM9FE1A,Ferrero USA,Ferrero,F-12418,Ferrero Rocher 24 pcs Diamond Display(48),43.5,25.0,7.7,144,3.0,48.0,,368.64,53084.16,Suppressed demand uplift included
+High,2026-04-18,1,SF,DM9FE1A,Ferrero USA,Ferrero,F-12418,Ferrero Rocher 24 pcs Diamond Display(48),7.3,35.0,33.1,96,2.0,48.0,,426.07,40902.58,Suppressed demand uplift included
+High,2026-04-18,3,LA,IM9SI1A,SNA,POP,F-04211,POP Ginger Chews Original 2 oz,1607.0,148.0,27.8,43056,598.0,72.0,,18.74,806890.97,Suppressed demand uplift included
+High,2026-04-18,2,NJ,IM9SI1A,SNA,POP,F-04074,POP Ginger Chews Lychee 8 oz,2039.7,152.0,224.5,6880,860.0,8.0,,7.54,51861.44,
+High,2026-04-18,2,NJ,IM9SI1A,SNA,POP,F-04117,POP Ginger Chews Blood Orange 4 oz (12ct/cs),1580.6,151.0,20.6,14976,1248.0,12.0,,6.54,97913.09,
+High,2026-04-18,2,NJ,IM9SI1A,SNA,POP,F-04211,POP Ginger Chews Original 2 oz,32051.5,147.5,3.3,322344,4477.0,72.0,,18.96,6111803.41,
+High,2026-04-18,1,SF,IM9SI1A,SNA,POP,F-04211,POP Ginger Chews Original 2 oz,8800.3,125.0,7.0,56304,782.0,72.0,,18.63,1049112.43,Suppressed demand uplift included
+High,2026-04-18,3,LA,IM9WU1B,WHYD,POP,D-15206,POP OG Oolong Tea 1.8gx100 (6ct/cs),27.9,95.0,547.8,6000,1000.0,6.0,6000.0,8.61,51645.0,Suppressed demand uplift included
+High,2026-04-18,2,NJ,LC9T12A,HPH,Tiger Balm,T-31520,Tiger Balm Ultra 10g,7293.3,43.0,71.0,50040,834.0,60.0,49992.0,18.03,902221.2,
+High,2026-04-18,1,SF,LC9T12A,HPH,Tiger Balm,T-31520,Tiger Balm Ultra 10g,3044.7,23.5,24.7,50040,834.0,60.0,49992.0,18.15,908226.0,Suppressed demand uplift included

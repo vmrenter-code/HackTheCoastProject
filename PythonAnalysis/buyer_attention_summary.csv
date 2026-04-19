@@ -1,0 +1,10 @@
+LOCATION_NAME,priority,sku_count,action_lines,total_recommended_units,total_estimated_order_cost
+LA,Critical,2,2,224,541414.4
+LA,High,6,6,55032,858535.97
+LA,Low,65,0,0,0.0
+NJ,Critical,4,4,19277,531364.84
+NJ,High,7,7,397288,7453043.3
+NJ,Low,62,0,0,0.0
+SF,Critical,3,3,5784,189759.36
+SF,High,3,3,106440,1998241.01
+SF,Low,67,0,0,0.0

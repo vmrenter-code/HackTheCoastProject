@@ -17,7 +17,7 @@ export default function Overview() {
   const filtered = filter === "all" ? skuData : skuData.filter((s) => s.status === filter);
 
   const chartData = skuData.map((s) => ({
-    name: s.name.split(" ").slice(0, 2).join(" "),
+  name: s.name,
     "Raw Demand":     s.rawDemand,
     "Cleaned Demand": s.cleanedDemand,
   }));
@@ -38,7 +38,7 @@ export default function Overview() {
         </div>
         <ResponsiveContainer width="100%" height={240}>
           <BarChart data={chartData} barGap={2}>
-            <XAxis dataKey="name" tick={{ fontSize: 11, fill: "#94a3b8" }} />
+<XAxis dataKey="name" tick={{ fontSize: 10, fill: "#94a3b8" }} angle={-35} textAnchor="end" height={80} interval={0} />
             <YAxis tick={{ fontSize: 11, fill: "#94a3b8" }} />
             <Tooltip contentStyle={{ background: "#1e293b", border: "1px solid #334155", borderRadius: 8, color: "#f1f5f9" }} />
             <Legend />
