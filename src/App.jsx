@@ -2,7 +2,7 @@ import { useState } from "react";
 import Overview from "./pages/Overview";
 import ReorderAlerts from "./pages/ReorderAlerts";
 import ChannelAnalysis from "./pages/ChannelAnalysis";
-import DraftPOs from "./pages/DraftPOs";
+import DraftPOs from "./pages/DraftPos";
 
 const NAV = [
   { id: "overview",  label: "SKU Overview",         icon: "⬡" },
