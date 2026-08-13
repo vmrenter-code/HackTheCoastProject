@@ -4,10 +4,11 @@ import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Legend,
 } from "recharts";
 
-const STATUS_CONFIG = {
+const STATUS_CONFIG = {   
   critical: { label: "Critical", color: "#ef4444" },
   warning:  { label: "Warning",  color: "#f59e0b" },
   ok:       { label: "OK",       color: "#22c55e" },
+  
 };
 
 export default function Overview() {
